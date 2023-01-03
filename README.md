@@ -1,3 +1,3 @@
 # MarkZhangTW.github.io
 
-## [Netflix Kaleidoscope Shuffler](/netflix-kaleidoscope-shuffler/)
+## [Netflix Kaleidoscope Shuffler](/NF-kaleidoscope-shuffler/)
